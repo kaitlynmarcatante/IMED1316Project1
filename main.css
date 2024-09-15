@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(0, 0, 0);
+  }
+ header > h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+ p.Bio {
+    background-image: url(Images/Paper1.JPEG); background-size: contain; padding: 20px;
+} 
+*{box-sizing: border-box;}
+        #container{width: 1300px;background-color:rgb(166, 166, 184);height:850px;margin:0 auto;font-family: 'Courier New', Courier, monospace;}
+        .floatRight{float: right;
+            width: 250px; 
+            height: 350px;
+            background-color: rgb(218, 233, 248);
+            border: 2px solid rgb(13, 110, 137);
+            padding: 10px;
+        }
+        main{
+            margin-left:20px;
+        }
+        footer{
+            margin-left: 20px;
+            visibility: hidden;}
